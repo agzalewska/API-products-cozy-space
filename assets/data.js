@@ -1,4 +1,4 @@
-[
+const items = [
   {
     id: 'rec14VvOxePteGyBK',
     name: 'Vintage Luna Armchair',
