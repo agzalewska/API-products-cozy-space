@@ -2959,3 +2959,5 @@ const items = [
     stars: 4.5,
   },
 ];
+
+module.exports = items;
